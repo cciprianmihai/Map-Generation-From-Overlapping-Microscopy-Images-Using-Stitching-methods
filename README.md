@@ -1,5 +1,5 @@
 # Map-Generation-From-Overlapping-Microscopy-Images-Using-Stitching-methods
-Oficial implementation for the paper "Map Generation From Overlapping Microscopy Images Using Stitching methods"
+Oficial implementation for the paper "Map Generation From Overlapping Microscopy Images Using Stitching methods" (ICTAI 2025). 
 
 # Patch Stitching & Quality Metrics Pipeline
 
@@ -220,13 +220,3 @@ Values are `-1` if a stitched/homography image was missing.
 - **OpenCV**, **PyTorch**, **Kornia**, **scikit-image**, **Matplotlib**
 
 ---
-
-## License
-
-Add your project’s license here (e.g., MIT). Note that LightGlue and other dependencies have their own licenses—review them before distribution.
-
----
-
-## Citation
-
-If you use **LightGlue**, please cite the authors as per their repository instructions. For your own paper/project, include an appropriate citation to this repo and any datasets used.
