@@ -12,6 +12,7 @@ If you use this work, please cite:
   pages     = {526--535},
   doi       = {10.1109/ICTAI66417.2025.00078}
 }
+```
 
 # Patch Stitching & Quality Metrics Pipeline
 
