@@ -1,5 +1,17 @@
 # Map-Generation-From-Overlapping-Microscopy-Images-Using-Stitching-methods
-Oficial implementation for the paper "Map Generation From Overlapping Microscopy Images Using Stitching methods" (ICTAI 2025). 
+Oficial implementation for the paper "Map Generation From Overlapping Microscopy Images Using Stitching methods" (ICTAI 2025): - [IEEE Xplore Paper](https://ieeexplore.ieee.org/document/11272458).
+
+If you use this work, please cite:
+
+```bibtex
+@INPROCEEDINGS{11272458,
+  author    = {Buță, Gabriel-Sebastian and Ceaușescu, Ciprian-Mihai and Alexe, Bogdan},
+  booktitle = {2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)},
+  title     = {Map Generation From Overlapping Microscopy Images Using Stitching Methods},
+  year      = {2025},
+  pages     = {526--535},
+  doi       = {10.1109/ICTAI66417.2025.00078}
+}
 
 # Patch Stitching & Quality Metrics Pipeline
 
